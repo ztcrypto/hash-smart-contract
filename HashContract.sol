@@ -1,6 +1,6 @@
 pragma solidity >=0.4.22 <0.6.0;
 
-contract HashContract {
+contract Hash {
     
     event HashAdded(string _accountId, string _hashId, string _hashType, string _hash,string _version);
     
